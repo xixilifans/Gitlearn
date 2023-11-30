@@ -1,3 +1,4 @@
+:i
 <<<<<<< HEAD
 and simple
 =======
@@ -9,3 +10,4 @@ Git is a distributed version control system
 Git is  free software
 creating  a new branch is quick
 Git has a mutable index called stage
+master commit 1
