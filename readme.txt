@@ -11,3 +11,4 @@ Git is  free software
 creating  a new branch is quick
 Git has a mutable index called stage
 master commit 1
+master commit 2
