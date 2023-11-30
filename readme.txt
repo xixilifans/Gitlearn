@@ -12,3 +12,4 @@ creating  a new branch is quick
 Git has a mutable index called stage
 master commit 1
 master commit 2
+master commit 3
